@@ -1,0 +1,2 @@
+M,N,K,tileM,tileN,AverageTimeGPU(ms),PerformanceGPU(GFLOP/s)
+1024,1024,1024,64,64,2.60915,823.058
