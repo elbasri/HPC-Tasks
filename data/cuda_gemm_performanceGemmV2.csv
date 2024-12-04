@@ -1,0 +1,3 @@
+Version,Execution Time (ms),Performance (GFLOP/s)
+CPU,2.2315,15.0367
+GPU,0.0028416,11808.3
